@@ -5,3 +5,4 @@ Guide:
 1. Download Visual Studio
 2. In Workloads choose .NET desktop development
 
+Before building and running this example. Please make sure you have downloaded the CCS spectrometers app from here: https://www.thorlabs.com/software_pages/ViewSoftwarePage.cfm?Code=CCS
