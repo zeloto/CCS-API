@@ -1,0 +1,10 @@
+C:\Users\vidar\Source\Repos\Light_Analysis_Examples\C sharp\Thorlabs CCS Spectrometers\CCS - Absorption Measurement\CCS - Absorption Measurement\obj\x64\Debug\CCS - Absorption Measurement.csproj.AssemblyReference.cache
+C:\Users\vidar\Source\Repos\Light_Analysis_Examples\C sharp\Thorlabs CCS Spectrometers\CCS - Absorption Measurement\CCS - Absorption Measurement\obj\x64\Debug\CCS - Absorption Measurement.csproj.CoreCompileInputs.cache
+C:\Users\vidar\Source\Repos\Light_Analysis_Examples\C sharp\Thorlabs CCS Spectrometers\CCS - Absorption Measurement\CCS - Absorption Measurement\bin\x64\Debug\CCS - Absorption Measurement.exe.config
+C:\Users\vidar\Source\Repos\Light_Analysis_Examples\C sharp\Thorlabs CCS Spectrometers\CCS - Absorption Measurement\CCS - Absorption Measurement\bin\x64\Debug\CCS - Absorption Measurement.exe
+C:\Users\vidar\Source\Repos\Light_Analysis_Examples\C sharp\Thorlabs CCS Spectrometers\CCS - Absorption Measurement\CCS - Absorption Measurement\bin\x64\Debug\CCS - Absorption Measurement.pdb
+C:\Users\vidar\Source\Repos\Light_Analysis_Examples\C sharp\Thorlabs CCS Spectrometers\CCS - Absorption Measurement\CCS - Absorption Measurement\bin\x64\Debug\Thorlabs.ccs.interop64.dll
+C:\Users\vidar\Source\Repos\Light_Analysis_Examples\C sharp\Thorlabs CCS Spectrometers\CCS - Absorption Measurement\CCS - Absorption Measurement\bin\x64\Debug\Thorlabs.ccs.interop64.xml
+C:\Users\vidar\Source\Repos\Light_Analysis_Examples\C sharp\Thorlabs CCS Spectrometers\CCS - Absorption Measurement\CCS - Absorption Measurement\obj\x64\Debug\CCS - Absorption Measurement.csproj.CopyComplete
+C:\Users\vidar\Source\Repos\Light_Analysis_Examples\C sharp\Thorlabs CCS Spectrometers\CCS - Absorption Measurement\CCS - Absorption Measurement\obj\x64\Debug\CCS - Absorption Measurement.exe
+C:\Users\vidar\Source\Repos\Light_Analysis_Examples\C sharp\Thorlabs CCS Spectrometers\CCS - Absorption Measurement\CCS - Absorption Measurement\obj\x64\Debug\CCS - Absorption Measurement.pdb

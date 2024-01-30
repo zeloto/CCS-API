@@ -1,0 +1,10 @@
+C:\C#\CCS - API\bin\Debug\CCS - Absorption Measurement.exe.config
+C:\C#\CCS - API\bin\Debug\CCS - Absorption Measurement.exe
+C:\C#\CCS - API\bin\Debug\CCS - Absorption Measurement.pdb
+C:\C#\CCS - API\bin\Debug\Thorlabs.ccs.interop64.dll
+C:\C#\CCS - API\bin\Debug\Thorlabs.ccs.interop64.xml
+C:\C#\CCS - API\obj\Debug\CCS - API.csproj.AssemblyReference.cache
+C:\C#\CCS - API\obj\Debug\CCS - API.csproj.CoreCompileInputs.cache
+C:\C#\CCS - API\obj\Debug\CCS - API.csproj.CopyComplete
+C:\C#\CCS - API\obj\Debug\CCS - Absorption Measurement.exe
+C:\C#\CCS - API\obj\Debug\CCS - Absorption Measurement.pdb
