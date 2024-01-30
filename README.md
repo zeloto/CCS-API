@@ -1,5 +1,5 @@
 # CCS-API
-Intensity and wavelength api for CCS200 Spectrometer based of https://github.com/Thorlabs/Light_Analysis_Examples/tree/main.
+Intensity and wavelength api for CCS100-200 Spectrometer based of https://github.com/Thorlabs/Light_Analysis_Examples/tree/main.
 
 Guide:
 1. Download and install Visual Studio https://visualstudio.microsoft.com/downloads/
